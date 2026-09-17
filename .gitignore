@@ -1,0 +1,15 @@
+.DS_Store
+.claude/settings.local.json
+node_modules/
+.env
+.env.*
+
+# App source lives in its own repo: atreyusutton/ute-pass-vacation-rentals
+/ute-pass/
+
+# Credentials - never commit
+ute-pass-wordpress/UtePassPasswords.txt
+ute-pass-wordpress/Card Info/
+
+# 1.2GB video, over GitHub's 100MB file limit
+ute-pass-wordpress/Tutorial.mp4

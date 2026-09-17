@@ -1,0 +1,25 @@
+
+TIME STAMPS
+===========
+
+
+0:00:00 -- Host Gator
+0:01:45 -- Passwords for all accounts
+0:02:45 -- Getting into email
+0:04:20 -- Calendar
+0:10:55 -- More Host Gator
+0:11:35 -- Getting into WordPress
+0:14:50 -- Editing with Elementor
+0:20:04 -- Intro to Chat GPT
+0:25:20 -- Intro to Booking Tab
+0:26:00 -- Resources tab (changing prices and seasonal/holiday prices)
+0:37:00 -- Adding a booking from the admin end
+0:38:25 -- Booking tab (seeing all your bookings)
+0:40:15 -- Testing making a reservation
+0:41:55 -- Editing a reservation
+0:42:50 -- What the user sees (email confirmation)
+0:45:40 -- More on Booking tab
+0:49:00 -- What admin sees in email
+0:53:00 -- Test Page
+
+
